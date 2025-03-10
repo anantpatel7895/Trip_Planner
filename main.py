@@ -72,7 +72,7 @@ if __name__ == "__main__":
   #     What are some of your high level interests and hobbies?
   #   """))
 
-  trip_crew = TripCrew("bangalore", "Ujjain, new york", "for 7 days", "bike riding, drinking, meditation")
+  trip_crew = TripCrew("bangalore", "GHoora", "for 1 days", " ")
   result = trip_crew.run()
   print("\n\n########################")
   print("## Here is you Trip Plan")
